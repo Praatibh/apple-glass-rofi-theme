@@ -12,7 +12,7 @@ A minimal, glassmorphism Rofi theme for Linux desktops, inspired by macOS Big Su
 
 ## 📸 Preview
 
-![Nexus Glass - Glassmorphism Rofi Theme Preview](untitled.mp4)
+![Nexus Glass - Glassmorphism Rofi Theme Preview](PREVIEW.png)
 
 ## 🚀 Installation
 
