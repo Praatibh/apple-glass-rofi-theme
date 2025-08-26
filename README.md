@@ -22,17 +22,17 @@ A minimal, glassmorphism Rofi theme for Linux desktops, inspired by macOS Big Su
    - Or [download OTFs](https://developer.apple.com/fonts/) and place them in `~/.local/share/fonts/`, then run `fc-cache -fv`.
 
 2. **Clone the repo**
-     git clone https://github.com/youruser/apple-glass-rofi-theme.git
-     cd apple-glass-rofi-theme
+   - git clone https://github.com/youruser/apple-glass-rofi-theme.git
+   - cd apple-glass-rofi-theme
     
 3. **Copy the theme**
-   mkdir -p ~/.config/rofi/themes/
-   cp themes/nexus-glass.rasi ~/.config/rofi/themes/
+   - mkdir -p ~/.config/rofi/themes/
+   - cp themes/nexus-glass.rasi ~/.config/rofi/themes/
 
 4. **Launch with the theme**
-   rofi -show drun -theme nexus-glass
+   - rofi -show drun -theme nexus-glass
 
 5. *(Optional)* Set as default in your `~/.config/rofi/config.rasi`:
-   @theme "nexus-glass"
+   - @theme "nexus-glass"
 
 
